@@ -4,7 +4,7 @@ A old Flutter project.
 
 ## :camera:Screenshots
 
-|<table>
+<table>
   <tr>
   <th>Splash Screen</th>
   <th>Home Page</th>
