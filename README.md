@@ -1,16 +1,38 @@
-# multi_app
+# This was my First Flutter App
 
-A new Flutter project.
+A old Flutter project.
 
-## Getting Started
+## :camera:Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|<table>
+  <tr>
+  <th>Splash Screen</th>
+  <th>Home Page</th>
+  </tr>
+  <tr>
+  <td><img src="screenshots/1.png">
+  </td>
+  <td><img src="screenshots/2.png">
+  </td>   
+  <tr>
+  <th>Timer Page</th>
+  <th>Timer Page (Running)</th>
+  </tr>
+  </tr>
+   <tr>
+  <td><img src="screenshots/3.png">
+  </td>
+  <td><img src="screenshots/4.png">
+  </td>   
+  </tr>
+  <tr>
+  <th>Calculator Page</th>
+  <th>Stopwatch Page</th>
+  </tr>
+  <tr>
+  <td><img src="screenshots/5.png">
+  </td>
+  <td><img src="screenshots/6.png">
+  </td>   
+  </tr>
+</table>
